@@ -1,0 +1,51 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main-title{
+    background-color: lightslategray;
+    color: white;
+    font-size: 35px;
+    padding: 3px;
+    text-align: center;
+}
+.body-section{
+    background-color:lightyellow;
+    padding-bottom: 10px;
+}
+.description{
+    padding: 10px 100px;
+}
+p{
+    border: 1px solid white;
+    background-color: white;
+    width:90%;
+    height: 70px;
+    padding: 20px 20px;
+    font-size: 25px;
+    word-spacing: 10px;
+    border-radius: 10px;
+    box-shadow: 10px;
+}
+.ingredients{
+    border: 1px solid white;
+    background-color: white;
+    width:80%;
+    margin: 10px 100px;
+    border-radius: 10px;
+}
+.instruction{
+    border: 1px solid white;
+    background-color: white;
+    width:80%;
+    margin: 40px 100px;
+    border-radius: 10px;
+}
+h2{
+    padding-left: 20px;
+    color: rgb(194, 28, 83);
+}
+ul,ol{
+    margin-left: 30px;
+    font-size: 20px;
+}
